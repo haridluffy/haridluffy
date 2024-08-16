@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Hari! 👋
 
-<!--
-**haridluffy/haridluffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer (MERN)** with a keen interest in exploring **Web 3** technologies using **Solidity**. Currently, I'm transitioning from my old GitHub account [hariFED](https://github.com/hariFED), which got spammed due to GitHub automation. I'm an open-source contributor, and I'm working towards creating applications that truly add value.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
+- **Exploring Web 3**: Diving deep into Solidity and decentralized applications.
+- **MERN Stack Projects**: Building robust full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Web 3**: Solidity, Smart Contracts
+- **Tools**: Git, GitHub, VS Code, Docker
+
+## 🌐 Connect with Me
+- **GitHub**: [haridluffy](https://github.com/haridluffy) (Old: [hariFED](https://github.com/hariFED))
+- **X**: [@harixhilfiger](https://x.com/harixhilfiger)
+- **Email**: [haridluffy@proton.me](mailto:haridluffy@proton.me)
+
+## 🎯 Goals
+I'm passionate about contributing to open-source projects and creating applications that deliver real value. I'm always learning and looking to collaborate with like-minded developers.
+
+## 📚 Anime Fan
+**One Piece** and **Naruto** any day, anytime!
